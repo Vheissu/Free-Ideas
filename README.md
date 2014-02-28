@@ -6,3 +6,7 @@ I come up with a lot of web application ideas. Some of them good (at least I thi
 ## Ideas are worthless
 
 Remember ideas are worthless, it's the execution that matters. So if you build any of these ideas, make sure they're possible and accomplishable before you invest coious amounts of time or effort into them.
+
+## The ideas
+
+[1. Massive Cryptocurrency API](1. Massive Cryptocurrency API.md)
