@@ -16,3 +16,4 @@ Remember ideas are worthless, it's the execution that matters. So if you build a
 3. [Kickstarter Meets Not-for-profit](3. Kickstarter Meets Not-For-Profit.md)
 4. [Salads on Demand](4. Salads on Demand.md)
 5. [The Best Pizza](5. The Best Pizza.md)
+6. [Crypto <For> Fiat](6. Crypto For Fiat.md)
