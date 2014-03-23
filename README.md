@@ -7,7 +7,7 @@ If you would like to work together on any of the following ideas or perhaps an i
 
 ## Ideas are worthless
 
-Remember ideas are worthless, it's the execution that matters. So if you build any of these ideas, make sure they're possible and accomplishable before you invest coious amounts of time or effort into them.
+Remember ideas are worthless, it's the execution that matters. So if you build any of these ideas, make sure they're possible and accomplishable before you invest copious amounts of time or effort into them.
 
 ## The ideas
 
