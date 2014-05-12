@@ -1,7 +1,9 @@
 Free-Ideas
 ==========
 
-I come up with a lot of web application ideas. Some of them good (at least I think so), ideas already done before and not researched, impractical ideas and some no doubt downright horrible. Take your pick and if you build anything from one of these ideas, let me know.
+I regularly come up with a lot of web application ideas. Some of them good (at least I think so), ideas already done before and not researched, impractical ideas and some no doubt downright horrible. Take your pick and if you build anything from one of these ideas, let me know.
+
+I used to keep these ideas bottled up and I still keep some of them bottled up, but as I go through my notebooks and find ideas, I'll post them to this repository.
 
 If you would like to work together on any of the following ideas or perhaps an idea of your own, feel free to reach out to me: dwaynecharrington (at) gmail (dot) com
 
@@ -20,3 +22,4 @@ Remember ideas are worthless, it's the execution that matters. So if you build a
 7. [Books to eBooks](7. Books to eBooks.md)
 8. [Nutrition Companion](8. Nutrition Companion.md)
 9. [News CMS](9. News CMS.md)
+10. [Localised Shopper](10. Localised Shopper.md)
