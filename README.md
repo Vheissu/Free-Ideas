@@ -23,3 +23,4 @@ Remember ideas are worthless, it's the execution that matters. So if you build a
 8. [Nutrition Companion](8. Nutrition Companion.md)
 9. [News CMS](9. News CMS.md)
 10. [Localised Shopper](10. Localised Shopper.md)
+11. [Crowdsourced Object Tagging](11. Crowdsourced Object Tagging.md)
